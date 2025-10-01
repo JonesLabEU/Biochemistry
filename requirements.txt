@@ -2,7 +2,6 @@ numpy
 matplotlib
 lmfit
 ipywidgets>=8
-traitlets
 ipython
 voila>=0.5
 notebook>=7
