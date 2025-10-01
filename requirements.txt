@@ -1,0 +1,10 @@
+numpy
+matplotlib
+lmfit
+ipywidgets>=8
+traitlets
+ipython
+voila>=0.5
+notebook>=7
+jupyterlab>=4
+jupyter-server-mathjax>=0.2
